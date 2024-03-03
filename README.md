@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/santanu4246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santanu4246" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santanu dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu dutta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santanu-dutta-22903125a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu dutta" height="30" width="40" /></a>
 <a href="https://instagram.com/_santanu_dutta__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_santanu_dutta__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/santanu4246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="santanu4246" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/santanu4246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="santanu4246" height="30" width="40" /></a>
