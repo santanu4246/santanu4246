@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/santanu4246" target="blank"><img src="https://img.shields.io/twitter/follow/santanu4246?logo=twitter&style=for-the-badge" alt="santanu4246" /></a> </p>
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **santanu4246@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am rude**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
