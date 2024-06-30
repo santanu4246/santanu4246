@@ -47,3 +47,8 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanu4246&show_icons=true&locale=en&layout=compact" alt="santanu4246" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santanu4246&show_icons=true&locale=en" alt="santanu4246" /></p>
+<p>
+  <div style="width: 50%;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santanu4246&" alt="subhajitorrin" height="195" />
+  </div>
+</p>
