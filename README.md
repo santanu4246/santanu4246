@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Santanu!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <br/>
 
@@ -16,14 +16,17 @@
 
 💬 Ask me about **React.js**
 
-⚡ Fun fact **I am funny**
+⚡ Fun fact **Use GitHub Codespaces to code in the cloud without committing**
 
  </div>
  
 <div align="center"> 
-  <a href="santanu4246@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+
+  <a href="mailto:santanu4246@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
+
+
   <a href="https://www.linkedin.com/in/santanu-dutta-22903125a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -68,6 +71,11 @@
 <hr/>
 
 <br/>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+✌️!+;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)" alt="Typing SVG">
+  </a>
+</h3>
 
 
 
