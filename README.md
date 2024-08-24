@@ -16,7 +16,7 @@
 
 💬 Ask me about **React.js**
 
-⚡ Fun fact **Use GitHub Codespaces to code in the cloud without committing**
+⚡ Fun fact **i am using github codespaces  to code in the cloud without committing**
 
  </div>
  
