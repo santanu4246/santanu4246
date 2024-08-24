@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a FoodDelivery Website**
  
- 🌱 I’m currently learning **Backend**
+ 🌱 I’m currently learning **Full Stack Web Development and Best Practices**
 
 💬 Ask me about **React.js**
 
