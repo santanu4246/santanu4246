@@ -35,15 +35,34 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp" /><br>
-</div>
+ <p align="center">     </p>
+<hr/>
 
+<div align="center">
+  <table style="width: 100%;">
+  <tr><td><strong >Web Development</strong></td></tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vite,html,css,javascript,tailwind,postman,npm,react,nodejs,mongodb,firebase,express" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr><td><strong align="center">Other Languages & Tools</strong></td></tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode,vercel,notion,py,java,git,cpp,c" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 <br/>
 <hr/>
 
