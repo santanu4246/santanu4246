@@ -45,7 +45,7 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vite,html,css,javascript,tailwind,postman,npm,react,nodejs,mongodb,express" />
+          <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,postman,npm,vite,react,nodejs,mongodb,express" />
         </a>
       </p>
     </td>
