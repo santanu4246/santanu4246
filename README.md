@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Full Stack Web Development and Best Practices**
 
-💬 Ask me about **React.js**
+💬 Ask me about **MERN**
 
 ⚡ Fun fact **i am using github codespaces  to code in the cloud without committing**
 
