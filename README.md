@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Santanu!;" />
 </h1>
 
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">Innovating web solutions with expertise and passion from India</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **SaasKit**
+<!-- 🔭 I’m currently working on **SaasKit** -->
  
  🌱 I’m currently learning **Full Stack Web Development and Best Practices**
 
