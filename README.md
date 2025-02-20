@@ -43,7 +43,7 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,postman,npm,vite,react,express,nodejs,mongodb,postgresql,prisma" />
+          <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,postman,nextjs,vite,react,express,nodejs,mongodb,postgresql,prisma" />
         </a>
       </p>
     </td>
