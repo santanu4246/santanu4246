@@ -27,29 +27,44 @@
 <hr style="border: 2px dashed #FF6B6B; margin: 30px 0;"/>
 
 <!-- TECH STACK -->
-<h2 align="center" style="color: #333333;">🛠️ Tech Stack</h2>
-<table align="center" style="margin-bottom: 30px;">
+<h2 align="center" style="color: #333; margin-bottom: 20px;">🛠️ Tech Stack</h2>
+<table align="center" style="margin: 0 auto; border-collapse: separate; border-spacing: 20px; width: 80%;">
   <tr>
-    <td align="center" style="padding: 10px;"><strong style="color: #FF6B6B;">Frontend</strong></td>
-    <td align="center" style="padding: 10px;"><strong style="color: #FF6B6B;">Backend</strong></td>
-    <td align="center" style="padding: 10px;"><strong style="color: #FF6B6B;">DevOps</strong></td>
-    <td align="center" style="padding: 10px;"><strong style="color: #FF6B6B;">Other Tools</strong></td>
+    <td style="text-align: right; vertical-align: middle; font-size: 1.5em; color: #FF6B6B; font-weight: bold; padding-right: 10px;">
+      Frontend
+    </td>
+    <td style="text-align: left; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind" alt="Frontend Icons" style="max-width: 100%;"/>
+    </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" />
+    <td style="text-align: right; vertical-align: middle; font-size: 1.5em; color: #FF6B6B; font-weight: bold; padding-right: 10px;">
+      Backend
     </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,express,mongodb" />
+    <td style="text-align: left; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,express,mongodb" alt="Backend Icons" style="max-width: 100%;"/>
     </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=docker,vercel,nginx,aws,ubuntu" />
+  </tr>
+  <tr>
+    <td style="text-align: right; vertical-align: middle; font-size: 1.5em; color: #FF6B6B; font-weight: bold; padding-right: 10px;">
+      DevOps
     </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=vscode,git,notion,postman,py,cpp,vim,pnpm" />
+    <td style="text-align: left; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=docker,vercel,nginx,aws,ubuntu" alt="DevOps Icons" style="max-width: 100%;"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: right; vertical-align: middle; font-size: 1.5em; color: #FF6B6B; font-weight: bold; padding-right: 10px;">
+      Other Tools
+    </td>
+    <td style="text-align: left; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=vscode,git,notion,postman,py,java,cpp,c,vim,pnpm" alt="Other Tools Icons" style="max-width: 100%;"/>
     </td>
   </tr>
 </table>
+
+
+
 
 <hr style="border: 2px dashed #FF6B6B; margin: 30px 0;"/>
 
