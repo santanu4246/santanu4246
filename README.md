@@ -42,7 +42,7 @@
       Backend
     </td>
     <td style="text-align: left; vertical-align: middle;">
-      <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,express,mongodb" alt="Backend Icons" style="max-width: 100%;"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,express,mongodb,supabase" alt="Backend Icons" style="max-width: 100%;"/>
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@
       Other Tools
     </td>
     <td style="text-align: left; vertical-align: middle;">
-      <img src="https://skillicons.dev/icons?i=vscode,git,notion,postman,py,java,cpp,c,vim,pnpm" alt="Other Tools Icons" style="max-width: 100%;"/>
+      <img src="https://skillicons.dev/icons?i=vscode,git,notion,postman,py,java,cpp,vim,pnpm" alt="Other Tools Icons" style="max-width: 100%;"/>
     </td>
   </tr>
 </table>
