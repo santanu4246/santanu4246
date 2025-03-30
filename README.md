@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td style="text-align: right; vertical-align: middle; font-size: 1.5em; color: #FF6B6B; font-weight: bold; padding-right: 10px;">
-      Other Tools
+      Other Tools & Languages
     </td>
     <td style="text-align: left; vertical-align: middle;">
       <img src="https://skillicons.dev/icons?i=vscode,git,notion,postman,py,java,cpp,vim,pnpm" alt="Other Tools Icons" style="max-width: 100%;"/>
